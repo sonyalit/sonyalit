@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @sonyalit, a frontend developer 👩🏽‍💻
 
 ## Find me around the web 🌏:
-<a href="t.me/sonyalit113">Telegram</a>
+<a href="https://t.me/sonyalit113">Telegram</a>
 
 <!---
 sonyalit/sonyalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
